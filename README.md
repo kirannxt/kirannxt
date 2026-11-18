@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI powered web development<br> web development <br>new opportunities <br>
+AI powered web development<br>
 
 
 # 💻 Tech Stack:
